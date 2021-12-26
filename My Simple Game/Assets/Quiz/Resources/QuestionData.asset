@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f0cb441653e1b449e7c5fdb5412db4, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Bung Tomo
+    - Brigjen Katamso
+    - Dr. Cipto Mangunkusumo
+    - Dr. Sutomo
+    correctAns: Brigjen Katamso
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 9afd6def0349c5d4899e6c075c61e79f, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Jend. Soedirman
+    - Dr. Sutomo
+    - K.H. Agus Salim
+    - Bung Tomo
+    correctAns: Bung Tomo
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: cac9f5ddeefdb154b88a9f1196da0971, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Cut Nyak Dien
+    - Dewi Sartika
+    - R.A Kartini
+    - Cut Meutia
+    correctAns: Cut Meutia
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ee5120bb2937e9b4d80aa153c09d5d22, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Dewi Sartika
+    - Cut Nyak Dien
+    - Cut Meutia
+    - R.A Kartini
+    correctAns: Cut Nyak Dien
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 28fba195d7cada94098967e626c8556e, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Ir. Soekarno
+    - Brigjen Katamso
+    - Dr. Cipto Mangunkusumo
+    - Jend. Gatot Subroto
+    correctAns: Ir. Soekarno
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ff5176d3ce65ee74297ffe266c3f2bf8, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Letjen. S. Parman
+    - Ismail Marzuki
+    - Kapitan Patimura
+    - Letjen. Soeprapto
+    correctAns: Ismail Marzuki
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6480bb61d9098fd4d831b1bdd4dd6855, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Brigjen Katamso
+    - Jend. Soedirman
+    - Letjen. S. Parman
+    - Bung Tomo
+    correctAns: Jend. Soedirman
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 33f132cc31c5f5c48912164628d3ec3e, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Brigjen Katamso
+    - Bung Tomo
+    - Kapitan Patimura
+    - Ki Hajar Dewantoro
+    correctAns: Kapitan Patimura
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6b8da23ab79ab9541a5e50ef4bb7fba2, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Jend. Gatot Subroto
+    - 'Ki Hajar Dewantoro '
+    - Dr. Cipto Mangunkusumo
+    - Letjen. S. Parman
+    correctAns: 'Ki Hajar Dewantoro '
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 2792d0ca39e068b48b5599abe9316543, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Moh. Yamin
+    - Letjen. S. Parman
+    - Moh. Hatta
+    - Pangeran Diponegoro
+    correctAns: Moh. Hatta
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: bed55e2776d4f9e4a8b76f0bed028203, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Pangeran Diponegoro
+    - Kapitan Patimura
+    - Letjen. Soeprapto
+    - Sultan Hasanudin
+    correctAns: Pangeran Diponegoro
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: f6732a1210809d349ab5c128f5783a38, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - R.A. Kartini
+    - Cut Meutia
+    - Dewi Sartika
+    - Herlinawati
+    correctAns: R.A. Kartini
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 5b7b2a17b052d5d43bbe1fda72ee987e, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Tuanku Imam Bonjol
+    - Brigjen Katamso
+    - Jend. Gatot Subroto
+    - Letjen. Soeprapto
+    correctAns: Tuanku Imam Bonjol
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: a8db88c5f91f5d84a91b2efa0825eeee, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Sultan Hasanudin
+    - Teuku Umar
+    - Tuanku Imam Bonjol
+    - Jend. Gatot Subroto
+    correctAns: Sultan Hasanudin
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: b768bbd51cdfb7b4ebfeb7822cf20435, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Jend. Gatot Subroto
+    - Jend. Soedirman
+    - Letjen. S. Parman
+    - K.H. Agus Salim
+    correctAns: K.H. Agus Salim
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1e45dd139da7ce24e97de1f4bcf3ca84, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Jend. Gatot Subroto
+    - Jend. Soedirman
+    - Letjen. S. Parman
+    - K.H. Agus Salim
+    correctAns: K.H. Agus Salim
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1e45dd139da7ce24e97de1f4bcf3ca84, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Jend. Gatot Subroto
+    - Jend. Soedirman
+    - Letjen. S. Parman
+    - K.H. Agus Salim
+    correctAns: K.H. Agus Salim
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1e45dd139da7ce24e97de1f4bcf3ca84, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Jend. Gatot Subroto
+    - Jend. Soedirman
+    - Letjen. S. Parman
+    - K.H. Agus Salim
+    correctAns: K.H. Agus Salim
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1e45dd139da7ce24e97de1f4bcf3ca84, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Jend. Gatot Subroto
+    - Jend. Soedirman
+    - Letjen. S. Parman
+    - K.H. Agus Salim
+    correctAns: K.H. Agus Salim
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1e45dd139da7ce24e97de1f4bcf3ca84, type: 3}
+  - questionInfo: Gambar siapakah dibawah ini
+    options:
+    - Jend. Gatot Subroto
+    - Jend. Soedirman
+    - Letjen. S. Parman
+    - K.H. Agus Salim
+    correctAns: K.H. Agus Salim
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1e45dd139da7ce24e97de1f4bcf3ca84, type: 3}
